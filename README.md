@@ -10,7 +10,7 @@ Welcome to my professional data analytics portfolio developed during the DecodeL
 ### 📁 [Project 1: Data Ingestion & Cleaning](https://github.com/AmitChaulagain1/Decodelabs_AmitChaulagain/tree/main/Project1)
 * **Focus:** Data validation, handling missing values, standardizing columns, and establishing a gold-standard dataset (`Cleaned_Dataset_Project1.csv`).
 
-### 📁 [Project 2: Exploratory Data Analysis (EDA)]("./Project2")
+### 📁 [Project 2: Exploratory Data Analysis (EDA)]("(https://github.com/AmitChaulagain1/Decodelabs_AmitChaulagain/tree/main/Project2)")
 * **Focus:** Statistical summaries, five-number summaries, outlier detection using IQR, correlation analysis, and data visualization (boxplots, histograms, heatmaps).
 
 ### 📁 [Project 3: SQL Data Analysis](./Project3)
