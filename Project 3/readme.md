@@ -67,7 +67,6 @@ Rather than writing arbitrary queries, every SQL script in this project was auth
 ```text
 ├── Cleaned_Dataset_Project1.csv   # Source gold-standard dataset
 ├── decodelabs_project3.db         # SQLite database file
-├── project3_analysis.sql          # Dedicated SQL analytical script
 └── README.md                      # Project documentation & business overview
 ```
 
