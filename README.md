@@ -7,7 +7,7 @@ Welcome to my professional data analytics portfolio developed during the DecodeL
 
 ## 📂 Repository Structure
 
-### 📁 [Project 1: Data Ingestion & Cleaning]([https://github.com/AmitChaulagain1/Decodelabs_AmitChaulagain/tree/main/Project1]
+### 📁 [Project 1: Data Ingestion & Cleaning](https://github.com/AmitChaulagain1/Decodelabs_AmitChaulagain/tree/main/Project1)
 * **Focus:** Data validation, handling missing values, standardizing columns, and establishing a gold-standard dataset (`Cleaned_Dataset_Project1.csv`).
 
 ### 📁 [Project 2: Exploratory Data Analysis (EDA)]("./Project2")
