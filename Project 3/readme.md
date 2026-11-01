@@ -60,6 +60,8 @@ Rather than writing arbitrary queries, every SQL script in this project was auth
 * <img width="760" height="88" alt="image" src="https://github.com/user-attachments/assets/4057afca-77b9-4a3d-ba7c-99b85e8b8b9f" />
 
 * **Flagship Categories:** **Chairs** and **Printers** represent the highest-earning product lines, each exceeding $\$195,000$ in total revenue.
+* <img width="980" height="352" alt="image" src="https://github.com/user-attachments/assets/230e897e-4c6b-4413-9a60-f41e0cffd93f" />
+
 * **Customer Distribution:** A total of **1,189 unique customers** were identified, demonstrating high individual buyer diversification across the platform.
 
 ---
