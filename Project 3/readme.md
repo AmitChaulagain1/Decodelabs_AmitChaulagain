@@ -57,6 +57,8 @@ Rather than writing arbitrary queries, every SQL script in this project was auth
 ## 📊 Summary of Findings & Business Insights
 
 * **Total Financial Scale:** The dataset accounts for **$\$1,264,761.96$** in gross revenue across **1,200 total orders**, yielding an Average Order Value (AOV) of **$\$1,053.97$**.
+* <img width="760" height="88" alt="image" src="https://github.com/user-attachments/assets/4057afca-77b9-4a3d-ba7c-99b85e8b8b9f" />
+
 * **Flagship Categories:** **Chairs** and **Printers** represent the highest-earning product lines, each exceeding $\$195,000$ in total revenue.
 * **Customer Distribution:** A total of **1,189 unique customers** were identified, demonstrating high individual buyer diversification across the platform.
 
